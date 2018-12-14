@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  firebase: horie1024/firebase-test-lab@volatile
+  firebase: horie1024/firebase-test-lab@dev:first
 
 jobs:
   build:

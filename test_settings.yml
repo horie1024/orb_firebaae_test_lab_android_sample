@@ -1,0 +1,10 @@
+instrumentation-test:
+  device:
+    - model: Nexus5
+      version: 21
+      locale: ja_JP
+      orientation: portrait
+    - model: mata
+      version: 25
+      locale: ja_JP
+      orientation: portrait

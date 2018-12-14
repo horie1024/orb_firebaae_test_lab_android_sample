@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orb Firebase Test Lab Sample</string>
+    <string name="login">login</string>
+    <string name="hello_world">hello_world</string>
+</resources>
